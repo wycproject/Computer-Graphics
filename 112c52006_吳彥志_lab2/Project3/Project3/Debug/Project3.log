@@ -1,0 +1,8 @@
+﻿  triangle.cpp
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(45,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(46,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(47,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(60,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(61,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\triangle.cpp(62,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Project3.vcxproj -> E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab2\Project3\Debug\Project3.exe
