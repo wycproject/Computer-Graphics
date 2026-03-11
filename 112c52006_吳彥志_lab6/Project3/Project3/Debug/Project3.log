@@ -1,0 +1,18 @@
+﻿  triangle.cpp
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(91,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(92,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(93,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(94,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(95,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(96,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(97,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(98,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(117,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(118,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(119,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(132,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(133,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(134,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(265,28): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\triangle.cpp(266,28): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  Project3.vcxproj -> E:\學校資料(新)\電腦圖學\112c52006_吳彥志_lab6\Project3\Debug\Project3.exe
