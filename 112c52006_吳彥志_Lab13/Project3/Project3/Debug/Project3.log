@@ -1,0 +1,7 @@
+﻿  line.cpp
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\line.cpp(162,9): warning C4101: 'format': 未參考的區域變數
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\line.cpp(161,8): warning C4101: 'nWidth': 未參考的區域變數
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\line.cpp(161,16): warning C4101: 'nHeight': 未參考的區域變數
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\line.cpp(161,25): warning C4101: 'nComponents': 未參考的區域變數
+E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\line.cpp(160,10): warning C4101: 'pBytes': 未參考的區域變數
+  Project3.vcxproj -> E:\學校資料(新)\電腦圖學\112c52006_吳彥志_Lab13\Project3\Debug\Project3.exe
